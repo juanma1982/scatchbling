@@ -17,5 +17,4 @@
 /web/bundles/
 .~lock*
 *~
-*.lock
 *.doc
