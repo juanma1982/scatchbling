@@ -38,7 +38,7 @@ class BackscratcherController extends FOSRestController
     }
     
     /**
-    * @Rest\Post("/api/backscratcher/")
+    * @Rest\Post("/api/backscratcher")
     */
     public function postAction(Request $request)
     {
